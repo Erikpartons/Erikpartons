@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Erikpartons
+- 👋 Hi, I’m Erik Zepeda
 - 👀 I’m interested in machine learning and high energy physics
 
 <!---
